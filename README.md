@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying cyber security at     <a href="https://www.umt.edu.pk/">umt</a>
+🔭 I’m currently studying cyber security at         <a href="https://www.umt.edu.pk/" target="_blank">UMT</a>
+
 <br>🌱 I’m currently learning Assembly language<br>💬 Ask me
 
 
